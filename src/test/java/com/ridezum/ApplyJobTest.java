@@ -58,6 +58,8 @@ public class ApplyJobTest extends BaseTest {
         driver.quit();
         //driver.switchTo().window(windowHandBefore);
 
-    }
+    }//new changes
+    //secondtest
+
 
 }
